@@ -81,7 +81,7 @@ Object-Oriented Programming (OOP) was not chosen for this project due to the fol
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/EventSphere.git
+   git clone https://github.com/Rohil1710/EventSphere.git
    cd EventSphere
    ```
 
